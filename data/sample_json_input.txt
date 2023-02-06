@@ -1,0 +1,22 @@
+{
+"data" : {
+		"CryoSleep": 1,
+		"Age": 24.0,
+		"VIP": 0,
+		"Num": 0.0,
+		"total_spent": 0.0,
+		"HomePlanet_Europa": 1,
+		"HomePlanet_Mars": 0,
+		"Destination_PSO J318.5-22": 0,
+		"Destination_TRAPPIST-1e": 1,
+		"Deck_B": 1,
+		"Deck_C": 0,
+		"Deck_D": 0,
+		"Deck_E": 0,
+        	"Deck_F": 0,
+		"Deck_G": 0,
+		"Deck_T": 0,
+		"Side_S": 0
+	}
+	
+}
